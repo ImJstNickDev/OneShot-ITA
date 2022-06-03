@@ -26,7 +26,7 @@ msgstr "Silver"
 #. actor name
 #: Actors:5
 msgid "invisible"
-msgstr "invisibile"
+msgstr "invisible"
 
 #. actor name
 #: Actors:6
@@ -1050,67 +1050,67 @@ msgstr "@niko_speak Bella pensata, \\p!"
 
 #: CommonEvents/Use Item:76:text
 msgid "@niko_speak Ah, looks like it's already fully charged."
-msgstr ""
+msgstr "@niko_speak Oh, sembra che si sia già completamente caricata."
 
 #: CommonEvents/Use Item:77:text
 msgid "@niko That was fast..."
-msgstr ""
+msgstr "@niko È stato veloce..."
 
 #: CommonEvents/Use Item:84:text
 msgid "@niko I should inject the liquid through the cork, right, \\p?"
-msgstr ""
+msgstr "@niko Dovrei iniettare il liquido attraverso il tappo, giusto, \\p?"
 
 #: CommonEvents/Use Item:86:text CommonEvents/Use Item:97:text
 msgid "@niko_speak It's like I'm a doctor!"
-msgstr ""
+msgstr "@niko_speak È come se fossi un dottore!"
 
 #: CommonEvents/Use Item:95:text
 msgid "@niko So... I should inject the liquid through the cork, right, \\p?"
-msgstr ""
+msgstr "@niko Quindi... dovrei iniettare il liquido attraverso il tappo, giusto, \\p?"
 
 #: CommonEvents/Use Item:99:text
 msgid "@niko_speak Oh!\\n\\.\\.\\@niko I should probably shake this too."
-msgstr ""
+msgstr "@niko_speak Oh!\\n\\.\\.\\@niko Probabilmente dovrei scuotere anche questo."
 
 #: CommonEvents/Use Item:105:text
 msgid "@niko_speak ...It changed color!"
-msgstr ""
+msgstr "@niko_speak ...Ha cambiato colore!"
 
 #: CommonEvents/Use Item:114:text CommonEvents/Use Item:125:text
 msgid "@niko I'm guessing you want me to pour this acid onto the sponge, \\p?"
-msgstr ""
+msgstr "@niko Immagino tu voglia che versi quest'acido sulla spugna, \\p?"
 
 #: CommonEvents/Use Item:115:text
 msgid "@niko_speak Good thing I have these gloves!"
-msgstr ""
+msgstr "@niko_speak Meno male che ho questi guanti!"
 
 #: CommonEvents/Use Item:118:text
 msgid "@niko_speak I hope this works..."
-msgstr ""
+msgstr "@niko_speak Spero che funzioni..."
 
 #: CommonEvents/Use Item:126:text
 msgid "@niko_speak \\.\\.\\...wait! \\.\\. \\@niko Shouldn't I be wearing gloves for this?"
-msgstr ""
+msgstr "@niko_speak \\.\\.\\...aspetta! \\.\\. \\@niko Non dovrei indossare dei guanti per questo?"
 
 #: CommonEvents/Use Item:127:text
 msgid "@niko_speak Safety first!"
-msgstr ""
+msgstr "@niko_speak La sicurezza prima di tutto!"
 
 #: CommonEvents/Use Item:133:text
 msgid "@niko_speak Oh yeah! We can use the feather as a pen!"
-msgstr ""
+msgstr "@niko_speak Oh sì! Possiamo usare la piuma come una penna!"
 
 #: CommonEvents/Use Item:134:text
 msgid "@niko I saw it in a picture book once."
-msgstr ""
+msgstr "@niko L'ho visto in un libro illustrato una volta."
 
 #: CommonEvents/Use Item:143:text
 msgid "@niko_speak Oh! Maybe we can make a button out of this!"
-msgstr ""
+msgstr "@niko_speak Oh! Forse possiamo farne un bottone!"
 
 #: CommonEvents/Use Item:144:text
 msgid "@niko I can cut out a piece of the can and fold it into a rectangle shape..."
-msgstr ""
+msgstr "@niko Posso ritagliare un pezzo della lattina e piegarlo a forma di rettangolo..."
 
 #: CommonEvents/Use Item:145:text
 msgid "@niko Just like arts and crafts!"
@@ -5306,18 +5306,18 @@ msgstr ""
 
 #: Maps/Start/bed top right:3:1:text Maps/Start/bed bottom left:2:1:text Maps/Start/bed bottom right:3:1:text Maps/INIT/Start purple/bed bottom left:2:1:text Maps/INIT/Start purple/bed bottom right:3:1:text
 msgid "@ed [Niko just woke up here.]"
-msgstr ""
+msgstr "@ed [Niko si è appena svegliato qui.]"
 
 #: Maps/Start/intro:1:15:text Maps/INIT/Start purple/intro:1:16:text
 msgid "@niko_speak H-hello?"
-msgstr ""
+msgstr "@niko_speak H-Hey?"
 
 #: Maps/Start/intro:1:17:text
 msgid "@niko .....\\p?"
 msgstr ""
 
 #: Maps/Start/intro:1:18:text
-msgid "@niko_shock ...\\>\\n\\@niko_what ...wait, why did I...say that word..."
+msgid "@niko_shock ...\\>\\n\\@niko_what ...aspetta, perché io ho...detto quella parola..."
 msgstr ""
 
 #: Maps/Start/intro:1:19:text
@@ -5325,7 +5325,7 @@ msgid "@niko_eyeclosed ...\"\\p\"."
 msgstr ""
 
 #: Maps/Start/intro:1:20:text
-msgid "@niko_distressed2 ....why does that sound so familiar?"
+msgid "@niko_distressed2 ....perché suona così familiare?"
 msgstr ""
 
 #: Maps/Start/intro:1:25:text Maps/POSTGAME green/Ruins In/Birdhall/alula:2:30:text Maps/INIT/Start purple/intro:1:18:text
