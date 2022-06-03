@@ -2038,7 +2038,7 @@ msgstr ""
 
 #: CommonEvents/paperbot:26:text Maps/POSTGAME green/burial grounds/alula:1:14:text Maps/Blue/Outpost/factory interior/EV010:2:2:text Maps/Blue/Outpost/factory interior/EV017:2:2:text Maps/Blue/Dormitories/118 - robot voice/Map Events:2:5:text
 msgid "@niko_speak Hi!"
-msgstr ""
+msgstr "@niko_speak Ciao!"
 
 #: CommonEvents/paperbot:31:text
 msgid "[STRANGE SOUNDS HAVE BEEN REPORTED FROM THE SLUMS.]"
