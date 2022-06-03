@@ -1498,7 +1498,7 @@ msgstr ""
 
 #: CommonEvents/Load Save:189:text Maps/POSTGAME RED SKY/Elevator deck/Map Events:2:13:text Maps/Red sky/Elevator deck/Map Events:2:13:text Maps/SQUARES BE GONE/Elevator deck/Map Events:2:13:text Maps/Green/Village/House 2 - tower/spinning child npc:1:10:text Maps/Green/Village/House 2 - tower/spinning child npc:1:21:text
 msgid "@niko_speak Huh?"
-msgstr ""
+msgstr "@niko_speak Eh?"
 
 #: CommonEvents/Load Save:191:choice:0
 msgid "This isn't the world I live in."
@@ -1514,7 +1514,7 @@ msgstr ""
 
 #: CommonEvents/Load Save:200:choice:0
 msgid "Earth."
-msgstr ""
+msgstr "Terra."
 
 #: CommonEvents/Load Save:200:choice:1
 msgid "That's a secret."
