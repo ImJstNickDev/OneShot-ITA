@@ -1786,7 +1786,7 @@ msgstr ""
 
 #: CommonEvents/Load Save:500:text
 msgid "@niko Wait, DO you like pancakes?"
-msgstr ""
+msgstr "@niko Aspetta, TI PIACCIONO i pancakes?"
 
 #: CommonEvents/Load Save:504:text
 msgid "@niko_eyeclosed I see...\\>\\n\\@niko_speak Makes sense, since you're a god!"
@@ -1850,7 +1850,7 @@ msgstr ""
 
 #: CommonEvents/Load Save:606:text
 msgid "@niko Hey.... \\p?"
-msgstr ""
+msgstr "@niko Hey.... \\p?"
 
 #: CommonEvents/Load Save:607:text
 msgid "@niko I guess...you saw my dream?"
