@@ -1958,7 +1958,7 @@ msgstr ""
 
 #: CommonEvents/Load Save:783:text
 msgid "@niko_distressed Oh...."
-msgstr ""
+msgstr "@niko_distressed Oh...."
 
 #: CommonEvents/Load Save:784:text
 msgid "@niko_eyeclosed \\p, let me know when you're back..."
