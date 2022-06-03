@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-shield]
 
-# Project Title
+# OneShot - Italian Translation
 
 This project is a translation of the game "OneShot".
 
