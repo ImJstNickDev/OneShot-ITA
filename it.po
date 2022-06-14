@@ -1,11 +1,14 @@
 # Translation template for OneShot
-
 msgid ""
 msgstr ""
 
 # Language code
-msgid "en"
+msgid "it"
 msgstr "Italiano"
+
+#: Scripts/Window_Settings:148 Scripts/Window_Settings:228
+msgid "POT_VERSION"
+msgstr "it.1"
 
 #. actor name
 #: Actors:1 Maps/INIT/DEBUG/EV091:1:0:choice:0
@@ -80,7 +83,7 @@ msgstr "L'odore della bottiglia è ripugnante."
 #. item name
 #: Items:4
 msgid "dry branch"
-msgstr "ramo seco"
+msgstr "ramo secco"
 
 #. item description
 #: Items:4
@@ -110,7 +113,7 @@ msgstr "Non fa abbastanza luce."
 #. item name
 #: Items:7
 msgid "basement key"
-msgstr "chiave dello scantinato"
+msgstr "chiave della cantina"
 
 #. item description
 #: Items:7
@@ -796,10 +799,6 @@ msgstr "Configura i Controlli (Premi F1)"
 msgid "Settings"
 msgstr "Impostazioni"
 
-#: Scripts/Window_Settings:148 Scripts/Window_Settings:228
-msgid "POT_VERSION"
-msgstr "it.1"
-
 #: Scripts/Window_Settings:178 Scripts/Window_Settings:190 Scripts/Window_Settings:196 Scripts/Window_Settings:202
 msgid "ON"
 msgstr "ON"
@@ -815,6 +814,14 @@ msgstr "CORSA"
 #: Scripts/Window_Settings:186
 msgid "WALK"
 msgstr "CAMMINATA"
+
+#: Scripts/Window_MainMenu:8
+msgid "Travel"
+msgstr "Viajar"
+
+#: Scripts/Window_MainMenu:9
+msgid "Notes"
+msgstr "Notas"
 
 #: Scripts/Window_NameInput:117
 msgid "Press X to delete characters (default controls)"
@@ -2166,7 +2173,7 @@ msgstr "@niko_speak Oooh..."
 
 #: CommonEvents/prophet explains the lightbulb:1:text
 msgid "@niko I found it in the house I woke up in..."
-msgstr "@niko l'ho trovato nella casa in cui mi sono svegliato..."
+msgstr "@niko L'ho trovato nella casa in cui mi sono svegliato..."
 
 #: CommonEvents/prophet explains the lightbulb:2:text
 msgid "@prophet [Within Your Hands Is Our New Sun.]"
@@ -2206,7 +2213,7 @@ msgstr "@prophet_hmm [Ora È La Nostra Unica Fonte Di Illuminazione, Ma La Sua E
 
 #: CommonEvents/prophet explains the lightbulb:12:text
 msgid "@prophet_sigh [When The Last Of The Light Dies,\\.\\. Our World Will Too.]"
-msgstr "@prophet_sigh [Quando L'Ultima Luce Morirà,\\.\\. Il Nostro Mondo Tocherà La Stessa Sorte.]"
+msgstr "@prophet_sigh [Quando L'Ultima Luce Morirà,\\.\\. Il Nostro Mondo Toccherà La Stessa Sorte.]"
 
 #: CommonEvents/prophet explains the lightbulb:13:text
 msgid "@niko_speak ...\\.\\.\\@niko_eyeclosed Ah..."
@@ -2222,7 +2229,7 @@ msgstr "@prophet [Dovrai Ripristinarlo Nella Torre.]"
 
 #: CommonEvents/prophet explains the lightbulb:16:text
 msgid "@niko2 That looks... pretty far off!"
-msgstr "@niko2 Sembra... piuttosto lontano!"
+msgstr "@niko2 Sembra... piuttosto lontana!"
 
 #: CommonEvents/prophet explains the lightbulb:17:text
 msgid "@prophet [Yes. So Begins Your Pilgrimage.]"
@@ -2246,7 +2253,7 @@ msgstr "@niko Oh..."
 
 #: CommonEvents/prophet explains going home:2:text
 msgid "@niko I don't mean to be rude, but I.."
-msgstr "@niko Non voglio sembrare rude, ma io.."
+msgstr "@niko Non vorrei sembrare rude, ma io.."
 
 #: CommonEvents/prophet explains going home:3:text
 msgid "@niko_eyeclosed I'm... not sure about this."
@@ -7594,27 +7601,27 @@ msgstr ""
 
 #: Maps/Start/Bathroom/plant:1:1:text
 msgid "@ed [A \\c[7]withered plant\\c[0] sits here, stiff and dry.]"
-msgstr ""
+msgstr "@ed [Una \\c[7]pianta appassita\\c[0] si trova qui, rigida e asciutta.]"
 
 #: Maps/Start/Bathroom/plant:1:3:text
 msgid "@ed [There's no need to do anything else to it.]"
-msgstr ""
+msgstr "@ed [Non c'è bisogno di farle nient'altro.]"
 
 #: Maps/Start/Bathroom/plant:1:6:text
 msgid "@ed [A branch snaps off.]"
-msgstr ""
+msgstr "@ed [Si è staccato un ramo.]"
 
 #: Maps/Start/Bathroom/mirror:1:1:text
 msgid "@ed [A pair of \\c[3]luminous, yellow eyes\\c[0] stares back at Niko.]"
-msgstr ""
+msgstr "@ed [Un paio di \\c[3]occhi gialli e luminosi\\c[0] fissano Niko.]"
 
 #: Maps/Start/Bathroom/EV005:1:1:text
 msgid "@ed [There's no water in the toilet.]"
-msgstr ""
+msgstr "@ed [Non c'è acqua nel gabinetto.]"
 
 #: Maps/Start/Bathroom/EV006:1:1:text Maps/Start/Bathroom/EV007:1:1:text
 msgid "@ed [The tub won't run.]"
-msgstr ""
+msgstr "@ed [La vasca non funziona.]"
 
 #: Maps/POSTGAME green/Ruins In/Birdhall/blocks npc:1:1:text Maps/Green/Ruins In/Birdhall/blocks npc:1:1:text
 msgid "@niko The pathway is blocked...."
@@ -8538,7 +8545,7 @@ msgstr "@ed [Quando guardi la pellicola, riempie l'intera finestra nel nostro mo
 
 #: Maps/Unused/stairwell-demo/pc:1:8:text Maps/Red sky/Office/stairwell/pc:1:11:text
 msgid "@ed [I believe you refer to the action I describe as \"dragging\".]"
-msgstr "@ed [Presumo tu ti riferisca a quest'azione come \"trascinare"\.]"
+msgstr "@ed [Presumo tu ti riferisca a quest'azione come \"trascinare\".]"
 
 #: Maps/Unused/stairwell-demo/pc:1:9:text Maps/Red sky/Office/stairwell/pc:1:12:text
 msgid "@ed [The void is beyond the borders of your view.]"
@@ -8658,7 +8665,7 @@ msgstr "@ed [Sembra che la legna nel camino non sia mai stata usata.]"
 
 #: Maps/Start/Livingroom/fire action:1:9:text
 msgid "@ed [Perhaps it could be \\c[6]lit\\c[0].]"
-msgstr "@ed [Forse potrebbe essere \\c[6]acceso\\c[0].]"
+msgstr "@ed [Forse potrebbe essere \\c[6]accesa\\c[0].]"
 
 #: Maps/Start/Livingroom/fire action:2:1:text
 msgid "@ed [The \\c[6]flames\\c[0] are dim but comforting.]"
@@ -8670,7 +8677,7 @@ msgstr "@ed [Qualcosa per terra brilla alla luce del fuoco.]"
 
 #: Maps/Start/Livingroom/key:1:2:text
 msgid "@ed [It appears to be a small metallic object,\\nwedged into a crack in the floor.]"
-msgstr "@ed [Sembra essere un piccolo oggetto metallico,\\nincastrato in una crepa nel pavimento.]"
+msgstr "@ed [Sembra essere un piccolo oggetto metallico,\\nincastrato in una crepa del pavimento.]"
 
 #: Maps/Start/Livingroom/key:1:3:text
 msgid "@ed [Niko digs it out.]"
@@ -8678,7 +8685,7 @@ msgstr "@ed [Niko lo tira fuori.]"
 
 #: Maps/Start/Livingroom/niko hello:1:2:text
 msgid "@niko_speak Helloooo?\\>\\n\\@niko ...anyone?"
-msgstr "@niko_speak Heeeyy?\\>\\n\\@niko ...c'è nessuno?"
+msgstr "@niko_speak Ehilaaaa?\\>\\n\\@niko ...c'è nessuno?"
 
 #: Maps/POSTGAME green/Ruins In/Courtyard/EV001:1:1:text Maps/Green/Ruins In/Birdhall/Courtyard/EV001:1:1:text
 msgid "@niko It's a ball."
@@ -13523,7 +13530,7 @@ msgstr "@niko Un robot senza corrente."
 
 #: Maps/Blue/Start point/EV302:1:5:text
 msgid "@ed [A robot. It no longer has power.]"
-msgstr "@ed [Un robot. Non ha più energia.]"
+msgstr "@ed [Un robot. Non ha corrente.]"
 
 #: Maps/Blue/Start point/EV302:2:1:text Maps/Blue/Outpost/Outpost interior/EV007:2:1:text Maps/Blue/Outpost/Outpost interior/EV008:2:1:text
 msgid "[I AM FUNCTIONAL!]"
@@ -14447,19 +14454,19 @@ msgstr "@niko \\p...\\. \\>\\@niko_eyeclosed mi ha fatto sembrare stupido..."
 
 #: Maps/Tower/Sunroom/Start/Bathroom/plant:1:1:text
 msgid "@niko It's a little tree."
-msgstr ""
+msgstr "@niko È un alberello."
 
 #: Maps/Tower/Sunroom/Start/Bathroom/mirror:1:1:text
 msgid "@niko_speak It's a mirror!"
-msgstr ""
+msgstr "@niko_speak È uno specchio!"
 
 #: Maps/Tower/Sunroom/Start/Bathroom/EV005:1:1:text
 msgid "@niko Just a toilet..."
-msgstr ""
+msgstr "@niko Un semplice gabinetto..."
 
 #: Maps/Tower/Sunroom/Start/Bathroom/EV006:1:1:text Maps/Tower/Sunroom/Start/Bathroom/EV007:1:1:text
 msgid "@niko It's a metal bathtub."
-msgstr ""
+msgstr "@niko È una vasca da bagno in metallo."
 
 #: Maps/Red sky/City gate/exit:1:1:text
 msgid "@niko_eyeclosed I don't want to go back..."
@@ -15019,7 +15026,7 @@ msgstr "@niko_speak Ho realmente sentito qualcuno! \\>\\n\\@niko Ha detto che il
 
 #: Maps/Blue/Outpost/prophet:4:254:text Maps/Blue/Outpost/prophet:4:299:text
 msgid "@niko_pancakes This is incredible..."
-msgstr "@niko_pancakes Questo è incredibile..."
+msgstr "@niko_pancakes È incredibile..."
 
 #: Maps/Blue/Outpost/prophet:4:255:text Maps/Blue/Outpost/prophet:4:292:text
 msgid "@prophet_hmm [It Seems The Recorded Name Was Incorrect.]"
@@ -25701,6 +25708,10 @@ msgstr ""
 msgid "@niko Fly penguin?"
 msgstr ""
 
+#: Maps/Unused/pshot/EV001:1:108:text
+msgid "<PENGUIN FLIES>"
+msgstr "<IL PINGUINO VOLA>"
+
 #: Maps/Unused/pshot/EV001:1:116:text
 msgid "@niko_pancakes IT FLIES!"
 msgstr ""
@@ -25716,6 +25727,10 @@ msgstr ""
 #: Maps/Unused/pshot/EV001:1:123:text Maps/Unused/pshot/EV001:1:134:text
 msgid "@niko3 ...\\.\\.Wait what?"
 msgstr ""
+
+#: Maps/Unused/pshot/EV001:1:119:text
+msgid "<PENGUIN MELTS>"
+msgstr "<IL PINGUINO SI SCIOGLIE>"
 
 #: Maps/Unused/pshot/EV001:1:130:text Maps/Unused/pshot/EV001:1:149:text
 msgid "@niko_wtf2 ..."
@@ -28577,3 +28592,6 @@ msgstr ""
 msgid "@shepherd What a day..."
 msgstr ""
 
+#: key.txt
+msgid "put me in the big portal"
+msgstr "Mettimi nel \"big portal\""
