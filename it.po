@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 
 # Language code
-msgid "it"
+msgid "en"
 msgstr "Italiano"
 
 #: Scripts/Window_Settings:148 Scripts/Window_Settings:228
@@ -817,11 +817,11 @@ msgstr "CAMMINATA"
 
 #: Scripts/Window_MainMenu:8
 msgid "Travel"
-msgstr "Viajar"
+msgstr "Viaggio"
 
 #: Scripts/Window_MainMenu:9
 msgid "Notes"
-msgstr "Notas"
+msgstr "Note"
 
 #: Scripts/Window_NameInput:117
 msgid "Press X to delete characters (default controls)"
@@ -1549,7 +1549,7 @@ msgstr "@niko_eyeclosed Capisco..."
 
 #: CommonEvents/Load Save:225:text
 msgid "@niko_speak Does your world have a sun?"
-msgstr "niko_speak Il vostro mondo lo ha un sole?"
+msgstr "@niko_speak Il vostro mondo lo ha un sole?"
 
 #: CommonEvents/Load Save:227:choice:0
 msgid "Yes, it's also a ball of fire."
@@ -1629,7 +1629,7 @@ msgstr "@niko Hai visto anche questo?"
 
 #: CommonEvents/Load Save:334:choice:0 CommonEvents/Load Save:393:choice:0 CommonEvents/Load Save:743:choice:0
 msgid "Yeah"
-msgstr "Yeah"
+msgstr "Sì"
 
 #: CommonEvents/Load Save:342:text
 msgid "@niko I was in a big field, like the one in my last dream..."
@@ -2557,11 +2557,11 @@ msgstr "@niko Mhm!"
 
 #: Maps/Green/Village/House 4 - squares/fisherman npc:1:14:text Maps/Green/Village/House 4 - squares/fisherman npc:1:22:text
 msgid "Last week, I saw more of those squares while out fishing."
-msgstr "La scorsa settimana, ho visto più di quei quadrati mentre pescavo."
+msgstr "La scorsa settimana, ho visto altri quadrati mentre pescavo."
 
 #: Maps/Green/Village/House 4 - squares/fisherman npc:1:15:text Maps/Green/Village/House 4 - squares/fisherman npc:1:23:text
 msgid "I knew better than to get too close, though."
-msgstr "Sapevo che era meglio non avvicinarsi troppo, però."
+msgstr "Sapevo che era meglio non avvicinarsi troppo."
 
 #: Maps/Green/Village/House 4 - squares/fisherman npc:1:16:text
 msgid "@alula_oh Oh! \\>\\@alula_pout It was that stuff in the door..."
@@ -2585,7 +2585,7 @@ msgstr "@niko Quadrati?"
 
 #: Maps/Green/Village/House 4 - squares/fisherman npc:1:25:text
 msgid "Squares, man.\\nThey're bad news."
-msgstr "Quadrati, dio.\\nPortano sempre cattive notizie."
+msgstr "Quadrati... \\nPortano sempre cattive notizie."
 
 #: Maps/POSTGAME RED GROUND/ground 1/fish house/Map events:1:1:text Maps/Red ground/ground 1/fish house/Map events:1:1:text
 msgid "@niko_speak It's a big fishtank!"
@@ -4029,7 +4029,7 @@ msgstr "@silver [Fai attenzione qui.]"
 
 #: Maps/Blue/Cliffs/Lookout point/Mineshaft entrance/mineshaft/Map Events:1:2:text
 msgid "@silver [Ready to leave?]"
-msgstr "@silver [Pronto a partire?]"
+msgstr "@silver [Pronto ad andartene?]"
 
 #: Maps/Blue/Cliffs/Lookout point/Mineshaft entrance/mineshaft/Map Events:1:3:text Maps/Green/Gate/map events:1:69:text
 msgid "@niko Mhm."
@@ -4037,7 +4037,7 @@ msgstr "@niko Mhm."
 
 #: Maps/Blue/Cliffs/Lookout point/Mineshaft entrance/mineshaft/Map Events:1:18:text
 msgid "@niko It'd be rude to leave now..."
-msgstr ""
+msgstr "@niko Sarebbe scortese andarsene ora..."
 
 #: Maps/Blue/Cliffs/Lookout point/Mineshaft entrance/mineshaft/Map Events:2:9:text
 msgid "@niko_speak Safety violation!"
@@ -4753,7 +4753,7 @@ msgstr "@alula_speak Già!"
 
 #: Maps/Green/Village/House 6 - death is coming/pessimistic npc:1:10:text Maps/Green/Village/House 6 - death is coming/pessimistic npc:1:25:text
 msgid "It's slowly being chipped away already.\\nBut it's still trying to stay alive, I think."
-msgstr "Sta andando lentamente in pezzi.\\Ma sta ancora cercando di rimanere in vita, credo."
+msgstr "Sta andando lentamente in pezzi.\\nMa sta ancora cercando di rimanere in vita, credo."
 
 #: Maps/Green/Village/House 6 - death is coming/pessimistic npc:1:11:text Maps/Green/Village/House 6 - death is coming/pessimistic npc:1:26:text
 msgid "Doesn't matter... one day the world will finally give up this fight."
@@ -5693,11 +5693,11 @@ msgstr ""
 
 #: Maps/Green/Village/House 7 - are you god/child npc:1:3:text Maps/Green/Village/House 7 - are you god/child npc:1:8:text
 msgid "Can you see \\p, too?"
-msgstr ""
+msgstr "Anche tu puoi vedere \\p?"
 
 #: Maps/Green/Village/House 7 - are you god/child npc:1:4:text Maps/Green/Village/House 7 - are you god/child npc:1:9:text
 msgid "@niko_speak Nope! \\@niko I can only hear their voice in my head."
-msgstr ""
+msgstr "@niko_speak No! \\@niko Posso solo sentire la sua voce nella mia testa."
 
 #: Maps/Green/Village/House 7 - are you god/child npc:1:5:text
 msgid "@alula_gasp That's still really cool!"
@@ -8281,7 +8281,7 @@ msgstr "@magpie Penso solo che siano carini!"
 
 #: Maps/Green/Ruins Out/ruins entrance left:1:1:text Maps/Green/Ruins Out/ruins entrance right:1:1:text Maps/Green/Gate/ruins entrance top left:1:1:text Maps/SQUARES BE GONE/Gate/ruins entrance top left:1:1:text
 msgid "@niko_eyeclosed The doorway is full of vines, \\p..."
-msgstr "@niko_eyeclosed L'entrata è piena di rampicanti, \\p..."
+msgstr "@niko_eyeclosed L'entrata è piena di rampicanti \\p..."
 
 #: Maps/Green/Ruins Out/EV180:1:3:text
 msgid "The flood can take away our farmlands..."
@@ -8353,7 +8353,7 @@ msgstr "@blue_gatekeeper [Un Essere Vivente Come Te Dovrebbe Aver Evacuato Quest
 
 #: Maps/Blue/Dormitories/EV027:1:8:text
 msgid "@niko_speak Oh, but I just got here! \\>\\n\\@niko To this world, I mean!"
-msgstr "@niko_speak Oh, ma io sono appena arrivato! \\>\\n\\@niko TIn questo mondo, intendo!"
+msgstr "@niko_speak Oh, ma io sono appena arrivato! \\>\\n\\@niko In questo mondo, intendo!"
 
 #: Maps/Blue/Dormitories/EV027:1:9:text
 msgid "@niko_speak See? \\.\\. I have the sun!"
@@ -8417,7 +8417,7 @@ msgstr "@blue_gatekeeper [Non Sono Stato Addomesticato.]"
 
 #: Maps/Blue/Dormitories/EV027:1:25:text Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:4:28:text
 msgid "@niko_speak Tamed?"
-msgstr "@niko_speak Addomesticato?"
+msgstr "@niko_speak Addomesticazione?"
 
 #: Maps/Blue/Dormitories/EV027:1:26:text
 msgid "@blue_gatekeeper [It Was Not Worth The Effort.]"
@@ -10257,7 +10257,7 @@ msgstr "@niko_speak C'è già un po' di questa roba nella bottiglia \\p!"
 
 #: Maps/Blue/Swamp/!specialpool:1:45:text
 msgid "@niko This pond sure looks different..."
-msgstr "@niko Questo stagno sembra sicuramente diverso..."
+msgstr "@niko Questo stagno sembra diverso..."
 
 #: Maps/Blue/Swamp/!specialpool:1:46:text
 msgid "@niko The water looks like... jelly?"
@@ -12937,11 +12937,11 @@ msgstr "@niko_eyeclosed Serpenti...."
 
 #: Maps/Green/Forest/EV383:1:3:text
 msgid "This is the best fishing spot I've found yet!"
-msgstr ""
+msgstr "Questo è il miglior punto dove pescare che io abbia mai trovato!"
 
 #: Maps/Green/Forest/EV383:1:4:text
 msgid "All the fish I catch here are longer than my arm!"
-msgstr ""
+msgstr "Tutti i pesci che catturo sono più lunghi del mio braccio!"
 
 #: Maps/POSTGAME green/Forest DOTN USE THIS/EV455:1:1:text
 msgid "@niko_speak Oh no!\\>\\nThe bridge is out!"
@@ -13045,7 +13045,7 @@ msgstr "@green_gatekeeper [Ho visto che stavi trasportando il sole prima.\\nSei 
 
 #: Maps/Green/Gate/map events:1:70:text
 msgid "@green_gatekeeper [You can enter the Refuge through this wall.\\nYou'll need to sign your name in this scroll first.]"
-msgstr "@green_gatekeeper [Puoi entrare nel Rifugio attraversando questo muro.\\Dovrai prima firmare col tuo nome su questa pergamena."
+msgstr "@green_gatekeeper [Puoi entrare nel Rifugio attraversando questo muro.\\nDovrai prima firmare col tuo nome su questa pergamena."
 
 #: Maps/Green/Gate/map events:1:71:text
 msgid "@niko Alright.\\.\\.\\n.\\..\\..Do you have a pen?"
@@ -13450,7 +13450,7 @@ msgstr "$Vorrei che questi libri non fossero così pesanti... sarà un dolore po
 
 #: Maps/Blue/Dormitories/117 - mom/EV032:1:4:text
 msgid "$But they're by the Author! I can't just throw them away!"
-msgstr "$Ma sono de \"l'autore\"! Non posso semplicemente buttarli via!"
+msgstr "$Ma sono dell' \"autore\"! Non posso semplicemente buttarli via!"
 
 #: Maps/Green/Gate/Inside 2/glitch activate:1:16:text
 msgid "@niko3 What in the world..?"
@@ -14442,7 +14442,7 @@ msgstr "[I ROBOT NON CONSUMANO BATTERIE ALLO STESSO MODO IN CUI GLI UMANI CONSUM
 
 #: Maps/Blue/Dormitories/118 - robot voice/EV031:1:43:text
 msgid "[IN FACT, ROBOTS DO NOT POSSESS DIGESTIVE SYSTEMS.]"
-msgstr "[IN REALTÀ, I ROBOT NON POSSEDONO SISTEMI DIGESTIVI.]"
+msgstr "[IN REALTÀ, I ROBOT NON POSSEGGONO SISTEMI DIGESTIVI.]"
 
 #: Maps/Blue/Dormitories/118 - robot voice/EV031:1:44:text
 msgid "[SOME ROBOTS DO NOT EVEN HAVE MOUTHS.]"
@@ -15234,7 +15234,7 @@ msgstr "@prophet [???]"
 
 #: Maps/Blue/Outpost/prophet:5:50:text
 msgid "@niko_speak Wait... \\.\\. You ARE the prophet, right?"
-msgstr "@niko_speak Aspetta... \\.\\. Tu SEI il profeta, giusto?"
+msgstr "@niko_speak Aspetta... \\.\\. Sei TU il profeta, giusto?"
 
 #: Maps/Blue/Outpost/prophet:5:51:text
 msgid "@prophet [Good Heavens, No!]"
@@ -15242,7 +15242,7 @@ msgstr "@prophet [Santo Cielo, No!]"
 
 #: Maps/Blue/Outpost/prophet:5:52:text
 msgid "@niko_speak But you called it \"my prophecy\" earlier..."
-msgstr "@niko_speak Ma l'hai chiamata la \"my prophecy\" prima..."
+msgstr "@niko_speak Ma l'hai chiamata \"La mia profezia\" prima..."
 
 #: Maps/Blue/Outpost/prophet:5:53:text
 msgid "@prophet [That Just Means It Is Built Into My Programming.]"
@@ -16430,7 +16430,7 @@ msgstr ""
 
 #: Maps/Blue/Outpost/Outpost interior/pc:2:21:text
 msgid "@ed [The code is contained within a \\c[2]Document\\c[0].]"
-msgstr "@ed [Il codice è contenuto all'interno di un \\c[2]Document\\c[0].]"
+msgstr "@ed [Il codice è contenuto all'interno di un \\c[2]Documento\\c[0].]"
 
 #: Maps/Blue/Outpost/Outpost interior/pc:2:22:condition
 msgid "Do you know where to find Documents, \\p?"
@@ -16466,7 +16466,7 @@ msgstr "@ed [Ma questi progressi si fermano qui.]"
 
 #: Maps/Blue/Outpost/Outpost interior/pc:2:42:text
 msgid "@ed [I believe you need a code to unlock a certain box.]"
-msgstr "@ed [Presumo ti serva un codice per sbloccare una certa scatola.]"
+msgstr "@ed [Presumo ti serva un codice per sbloccare una certa cassetta.]"
 
 #: Maps/Blue/Outpost/Outpost interior/pc:2:43:text
 msgid "@ed [Well, the code no longer exists in THIS world.]"
@@ -16582,7 +16582,7 @@ msgstr "$PROMEMORIA A TUTTI I LAVORATORI:"
 
 #: Maps/Blue/Outpost/Outpost interior/EV012:1:3:text
 msgid "$The rarest form of blue phosphor is found during the phosphor shrimp's spawn period."
-msgstr "$La forma più rara del fosforo blu può essere trovata durante la schiusa delle uova di gamberetto fosforescente al fosforo."
+msgstr "$La forma più rara del fosforo blu può essere trovata durante la schiusa delle uova di gamberetto al fosforo."
 
 #: Maps/Blue/Outpost/Outpost interior/EV012:1:5:text
 msgid "$If you observe a pond with a bubbled-over surface, please contact management immediately!"
@@ -16638,7 +16638,7 @@ msgstr "$Hanno detto che era dovuto a... qualcosa con i quadrati?"
 
 #: Maps/Blue/Dormitories/119 - cell/EV029:1:5:text
 msgid "$I'm not sure what they mean by that."
-msgstr "$Non sono sicuro di cosa intendessero con quello."
+msgstr "$Non sono sicuro di cosa intendessero."
 
 #: Maps/Blue/Dormitories/119 - cell/EV029:1:7:text
 msgid "$Bummer, looks like they won't be able to transport most of these surplus bots to the city at this rate."
@@ -16662,7 +16662,7 @@ msgstr "$Sembra che stiano evacuando i pochi robot addomesticati che abbiamo qui
 
 #: Maps/Blue/Dormitories/119 - cell/EV030:1:2:text
 msgid "$Makes sense... no point in keeping them in the Barrens if all the people are already gone."
-msgstr "$Ha senso... non ha senso tenerli nelle Barrens se tutte le persone se ne sono già andate."
+msgstr "$Ha senso... non ha senso invece tenerli nelle Barrens se tutte le persone se ne sono già andate."
 
 #: Maps/Blue/Dormitories/119 - cell/EV030:1:4:text
 msgid "$I wonder if the engineer is going too..."
@@ -16738,7 +16738,7 @@ msgstr "@niko C'è un buco a forma di rettangolo nel mezzo."
 
 #: Maps/Blue/Outpost/Outpost interior/Backroom/generator:1:59:text
 msgid "@niko_speak Looks like something used to fit in here..."
-msgstr "@niko_speak Sembra come se qualcosa ci entrasse perfettamente..."
+msgstr "@niko_speak Sembra come se ci fosse spazio per inserire qualcosa..."
 
 #: Maps/Blue/Outpost/Outpost interior/Backroom/EV007:1:1:text
 msgid "@niko A page with faded ink."
@@ -19706,7 +19706,7 @@ msgstr "@niko Una cassaforte in metallo.\\nSembra sia bloccata da un codice a 6 
 
 #: Maps/Blue/Cliffs/safe:1:8:text
 msgid "@niko I don't... remember seeing any 6-digit codes. Do you, \\p?"
-msgstr "@niko Io non... ricordo di aver visto nessun codice a 6 cifre, tu \\p ricordi qualcosa?"
+msgstr "@niko Io non... ricordo di aver visto nessun codice a 6 cifre, tu ricordi qualcosa \\p?"
 
 #: Maps/Blue/Cliffs/safe:1:9:text
 msgid "[ENTER CODE:]"
@@ -19718,7 +19718,7 @@ msgstr "@niko_speak Woah! Ha funzionato!"
 
 #: Maps/Blue/Cliffs/safe:1:22:text
 msgid "@niko2 Wait, how did you know the code,\\n\\p?\\>\\n\\@niko_eyeclosed I still don't remember seeing one..."
-msgstr "@niko2 Aspetta, come facevi a sapere il codice,\\n\\p?\\>\\n\\@niko_eyeclosed Continuo a non ricordarmi di averne visto uno..."
+msgstr "@niko2 Aspetta, tu come facevi a sapere il codice\\n\\p?\\>\\n\\@niko_eyeclosed Continuo a non ricordarmi di averne visto uno..."
 
 #: Maps/Blue/Cliffs/safe:1:24:choice:0
 msgid "I had some help."
@@ -19778,47 +19778,47 @@ msgstr "@niko È vuota."
 
 #: Maps/Blue/Cliffs/EV111:1:1:text
 msgid "$Although the poisonous gas is highly localized to the vent zones, Barrens workers were still recommended to wear gas masks."
-msgstr ""
+msgstr "$Anche se il gas velenoso è concentrato soprattutto nelle zone di ventilazione, i lavoratori delle Barrens raccomandano di indossare delle maschere antigas."
 
 #: Maps/Blue/Cliffs/EV111:1:2:text
 msgid "$These masks were mandatory around active vent sites, of course."
-msgstr ""
+msgstr "$Queste maschere sono obbligatorie nei siti di ventilazione, ovviamente."
 
 #: Maps/Blue/Cliffs/EV111:1:4:text
 msgid "$As more and more of the workforce got replaced by robots, we found ourselves with a surplus of abandoned gas masks."
-msgstr ""
+msgstr "$Come risultato dell'aumento della forza lavoro rimpazzata dai robot, ci siamo ritrovati con un surplus di maschere antigas abbandonate."
 
 #: Maps/Blue/Cliffs/EV111:1:5:text
 msgid "$It seemed like a waste to get rid of them all, so we kept a few for emergencies."
-msgstr ""
+msgstr "$Sembrava uno spreco gettarle via tutte, così ne abbiamo tenute alcune per le emergenze."
 
 #: Maps/Blue/Cliffs/EV112:1:1:text
 msgid "$The sun will not return and the abyss is calling my name."
-msgstr ""
+msgstr "$Il sole non tornerà e l'abisso sta chiamando il mio nome."
 
 #: Maps/Blue/Cliffs/EV112:1:2:text
 msgid "$I'm sorry, everyone..."
-msgstr ""
+msgstr "$Chiedo scusa, a tutti..."
 
 #: Maps/Blue/Cliffs/EV112:1:3:text
 msgid "$...for choosing to leave before the darkness suffocates us all."
-msgstr ""
+msgstr "$...per aver scelto di andarmene prima che l'oscurità ci soffocasse tutti."
 
 #: Maps/Blue/Cliffs/EV113:1:1:text
 msgid "@niko A torn page with faded ink."
-msgstr ""
+msgstr "@niko Una pagina strappata con dell'inchiostro sbiadito."
 
 #: Maps/Blue/Cliffs/EV113:1:2:text
 msgid "$XX/XX/XX\\n\\nWith the mining operations going smoothly, materials are no longer our limiting factor."
-msgstr ""
+msgstr "$XX/XX/XX\\n\\nCon le operazioni minerarie che vanno lisce come l'olio, i materiali non sono più un fattore limitante."
 
 #: Maps/Blue/Cliffs/EV113:1:4:text
 msgid "$We will be able to build more resilient robots, both in body and mind."
-msgstr ""
+msgstr "$Riusciremo a costruire robot più resistenti, sia nel corpo che nella mente."
 
 #: Maps/Blue/Cliffs/EV113:1:5:text
 msgid "$Specifically, the discovery of metal alloy 291 will likely allow the development of highly efficient circuitry."
-msgstr ""
+msgstr "$Più nello specifico, la scoperta della lega di metallo 291 permetterà sicuramente lo sviluppo di una circuiteria più efficiente."
 
 #: Maps/Blue/Cliffs/glitch pixel:2:11:text
 msgid "@niko_speak What IS that?"
@@ -20362,7 +20362,7 @@ msgstr "@rowbot [STO FUNZIONANDO!]"
 
 #: Maps/Blue/Docks/npc_rowbot:1:136:text
 msgid "@rowbot [WAS IT YOU WHO FIXED THE GENERATOR?]"
-msgstr "rowbot [SEI STATO TU A RIPRISTINARE IL GENERATORE?]"
+msgstr "@rowbot [SEI STATO TU A RIPRISTINARE IL GENERATORE?]"
 
 #: Maps/Blue/Docks/npc_rowbot:1:137:text
 msgid "@niko_speak Well, \\p helped me!"
@@ -22038,35 +22038,35 @@ msgstr "@niko_eyeclosed Senza corrente, proprio come il resto..."
 
 #: Maps/Blue/Cliffs/Lookout point/garden:2:2:text
 msgid "[I AM WATCHING OVER THE PLANTS.]"
-msgstr ""
+msgstr "[STO VIGILANDO LE PIANTE.]"
 
 #: Maps/Blue/Cliffs/Lookout point/garden:2:5:text
 msgid "[HELLO, SMALL PERSON.]"
-msgstr ""
+msgstr "[CIAO, PICCOLA PERSONA.]"
 
 #: Maps/Blue/Cliffs/Lookout point/garden:2:6:text
 msgid "@niko_eyeclosed You're not much bigger than I am..."
-msgstr ""
+msgstr "@niko_eyeclosed Non sei poi così tanto più grande di me..."
 
 #: Maps/Blue/Cliffs/Lookout point/garden:2:7:text
 msgid "[WELCOME TO THE LOOKOUT POINT.]"
-msgstr ""
+msgstr "[BENVENUTO AL CENTRO DI OSSERVAZIONE."
 
 #: Maps/Blue/Cliffs/Lookout point/garden:2:8:text
 msgid "[BELOW US IS THE OLD QUARRY.]"
-msgstr ""
+msgstr "[SOTTO DI NOI C'È IL VECCHIO SCAVATORE."
 
 #: Maps/Blue/Cliffs/Lookout point/garden:2:9:text
 msgid "[THE HEAD ENGINEER LIVES A LITTLE MORE TO THE EAST.]"
-msgstr ""
+msgstr "[LA CAPO INGEGNERA VIVE UN PO' PIÙ A EST (DESTRA).]"
 
 #: Maps/Blue/Cliffs/Lookout point/garden:2:10:text
 msgid "[THE ENTRANCE TO THE OLD MINES IS FURTHER TO THE EAST.]"
-msgstr ""
+msgstr "[L'ENTRATA PER LE VECCHIE MINIERE È ANCORA PIÙ A EST.]"
 
 #: Maps/Blue/Cliffs/Lookout point/EV009:1:1:text Maps/Blue/Cliffs/Lookout point/EV011:1:1:text Maps/Blue/Cliffs/Lookout point/EV012:1:1:text Maps/Blue/Cliffs/Lookout point/EV013:1:1:text Maps/Blue/Cliffs/Lookout point/EV014:1:1:text Maps/Blue/Cliffs/Lookout point/EV015:1:1:text Maps/Blue/Cliffs/Lookout point/EV016:1:1:text Maps/Blue/Cliffs/Lookout point/EV017:1:1:text Maps/Blue/Cliffs/Lookout point/EV018:1:1:text Maps/Blue/Cliffs/Lookout point/EV019:1:1:text Maps/Blue/Cliffs/Lookout point/EV020:1:1:text Maps/Blue/Cliffs/Lookout point/EV021:1:1:text Maps/Blue/Cliffs/Lookout point/EV022:1:1:text Maps/Blue/Cliffs/Lookout point/EV023:1:1:text Maps/Blue/Cliffs/Lookout point/EV024:1:1:text Maps/Blue/Cliffs/Lookout point/EV025:1:1:text Maps/Blue/Cliffs/Lookout point/EV026:1:1:text Maps/Blue/Cliffs/Lookout point/EV027:1:1:text Maps/Blue/Cliffs/Lookout point/EV028:1:1:text Maps/Blue/Cliffs/Lookout point/EV029:1:1:text Maps/Blue/Cliffs/Lookout point/EV030:1:1:text Maps/Blue/Cliffs/Lookout point/EV031:1:1:text Maps/Blue/Cliffs/Lookout point/EV032:1:1:text Maps/Blue/Cliffs/Lookout point/EV033:1:1:text Maps/Blue/Cliffs/Lookout point/EV034:1:1:text Maps/Blue/Cliffs/Lookout point/EV035:1:1:text Maps/Blue/Cliffs/Lookout point/EV036:1:1:text Maps/Blue/Cliffs/Lookout point/EV037:1:1:text Maps/Blue/Cliffs/Lookout point/EV038:1:1:text Maps/Blue/Cliffs/Lookout point/EV039:1:1:text Maps/Blue/Cliffs/Lookout point/EV040:1:1:text Maps/Blue/Cliffs/Lookout point/EV041:1:1:text Maps/Blue/Cliffs/Lookout point/EV042:1:1:text Maps/Blue/Cliffs/Lookout point/EV043:1:1:text Maps/Blue/Cliffs/Lookout point/EV044:1:1:text Maps/Blue/Cliffs/Lookout point/EV045:1:1:text Maps/Blue/Cliffs/Lookout point/EV046:1:1:text Maps/Blue/Cliffs/Lookout point/EV047:1:1:text Maps/Blue/Cliffs/Lookout point/EV048:1:1:text Maps/Blue/Cliffs/Lookout point/EV049:1:1:text Maps/Blue/Cliffs/Lookout point/EV050:1:1:text Maps/Blue/Cliffs/Lookout point/EV051:1:1:text Maps/Blue/Cliffs/Lookout point/EV052:1:1:text Maps/Blue/Cliffs/Lookout point/EV053:1:1:text Maps/Blue/Cliffs/Lookout point/EV054:1:1:text Maps/Blue/Cliffs/Lookout point/EV055:1:1:text Maps/Blue/Cliffs/Lookout point/EV056:1:1:text Maps/Blue/Cliffs/Lookout point/EV057:1:1:text Maps/Blue/Cliffs/Lookout point/EV058:1:1:text Maps/Blue/Cliffs/Lookout point/EV059:1:1:text Maps/Blue/Cliffs/Lookout point/EV060:1:1:text Maps/Blue/Cliffs/Lookout point/EV061:1:1:text Maps/Blue/Cliffs/Lookout point/EV062:1:1:text Maps/Blue/Cliffs/Lookout point/EV063:1:1:text Maps/Blue/Cliffs/Lookout point/EV064:1:1:text Maps/Blue/Cliffs/Lookout point/EV065:1:1:text Maps/Blue/Cliffs/Lookout point/EV066:1:1:text Maps/Blue/Cliffs/Lookout point/EV067:1:1:text Maps/Blue/Cliffs/Lookout point/EV068:1:1:text
 msgid "@niko Strange black plants. They look like clovers."
-msgstr ""
+msgstr "@niko Strane piante nere. Sembrano trifogli."
 
 #: Maps/FINALE/Memory/niko reflection:1:46:text
 msgid "@en3 [\\p...\\> you're... back.]"
@@ -22502,7 +22502,7 @@ msgstr "@silver [Cella di energia di backup. Mi tiene funzioannte.]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/EV006:1:6:text
 msgid "@silver_lookup [The main generator for the Barrens ran out of power some time ago.]"
-msgstr "@silver_lookup [Il generatore principale per \"Barrens\" ha finito la corrente qualche tempo fa.]"
+msgstr "@silver_lookup [Il generatore principale per le Barrens ha finito la corrente qualche tempo fa.]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/EV006:1:7:text
 msgid "@silver_eyeclosed [It could not even last a week without the sun.]"
@@ -22630,23 +22630,23 @@ msgstr "@niko Un barattolo pieno di gamberetti luminosi."
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/EV023:1:2:text
 msgid "$I heard the news about the mines."
-msgstr ""
+msgstr "$Ho sentito le notizie a proposito delle miniere."
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/EV023:1:3:text
 msgid "$I'm sorry... I can't imagine what you're feeling."
-msgstr ""
+msgstr "$Mi dispiace... Non posso immaginare cosa tu stia provando."
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/EV023:1:5:text
 msgid "$It's been two weeks..."
-msgstr ""
+msgstr "$Sono passate due settimane..."
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/EV023:1:6:text
 msgid "$I know it must be hard, but maybe it's better that you came back..."
-msgstr ""
+msgstr "$So che deve essere stato difficile, ma forse è meglio se torni indietro..."
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/EV023:1:10:text
 msgid "$-Kip"
-msgstr ""
+msgstr "$-Kip"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/fireflies:1:2:text
 msgid "@niko The top is covered with a wire mesh."
@@ -22754,7 +22754,7 @@ msgstr "@silver2 [Solo i circuiti di navigazione?]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:1:39:text
 msgid "@niko_speak Apparently!\\n\\>\\@niko \\p and I fixed everything else, I think..."
-msgstr "@niko_speak Apparentemente!\\n\\>\\@niko \\p e ho sistemato tutto il resto, credo..."
+msgstr "@niko_speak Apparentemente!\\n\\>\\@niko \\p e io abbiamo sistemato tutto il resto, credo..."
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:1:40:text
 msgid "@silver [Hm...]"
@@ -22858,7 +22858,7 @@ msgstr "@silver [Per quel che tutti dicono, è lì dall'inizio dei tempi.]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:1:85:text
 msgid "@silver [I know someone who wanted to study it before, but...]"
-msgstr "@silver [Conosco qualcuno che voleva studiarlo prima, ma...]"
+msgstr "@silver [Conosco qualcuno che voleva studiarla prima, ma...]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:1:86:text
 msgid "@silver_eyeclosed [...]"
@@ -22914,7 +22914,7 @@ msgstr "@silver_eyeclosed [Beh, in ogni caso...]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:2:20:text
 msgid "@silver_lookup [A child like you being the messiah...just doesn't feel right.]"
-msgstr "@silver_lookup [Un bambino come te, il messia... semplicemente sembra la cosa giusta.]"
+msgstr "@silver_lookup [Un bambino come te, il messia... semplicemente non la sento una cosa buona.]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:2:21:text
 msgid "@niko_eyeclosed But that robot back there says there's no mistake..."
@@ -23074,7 +23074,7 @@ msgstr "@niko_eyeclosed ...\\.\\.ed ecco che se ne va il mio altro alfiere..."
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:4:36:text
 msgid "@silver_lookup [I can't really explain what tamed robots are.]"
-msgstr "@silver_lookup [Non riesco a spiegare veramente cosa sono i robot addomesticati.]"
+msgstr "@silver_lookup [Non riesco a spiegarti veramente cosa sono i robot addomesticati.]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:4:37:text
 msgid "@silver [But I'm one of them.]"
@@ -23106,7 +23106,7 @@ msgstr "@silver [Nel passato, sì.]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:4:47:text
 msgid "@silver_eyeclosed [I still have the data, the coordinates,\\. the memories...]"
-msgstr "@silver_eyeclosed [Ho ancora i dati, le coordinate,\\. le memorie...]"
+msgstr "@silver_eyeclosed [Ho ancora i dati, le coordinate,\\. i ricordi...]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:4:48:text
 msgid "@silver_eyeclosed [...I don't know how much of that still holds true.]"
@@ -23186,7 +23186,7 @@ msgstr "@silver_eyeclosed [Ok, ti ho trattenuto fin troppo a lungo...]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:4:69:text
 msgid "@silver [...Thank you for listening.]"
-msgstr "@silver [...Grazie per aver ascoltato.]"
+msgstr "@silver [...Grazie per avermi ascoltata.]"
 
 #: Maps/Blue/Cliffs/Lookout point/Cabin/npc_silver:4:70:text
 msgid "@silver [I hope you get home safely.]"
@@ -23910,7 +23910,7 @@ msgstr ""
 
 #: Maps/Blue/Outpost/factory interior/factory upstairs/ :1:6:text
 msgid "@niko_speak Ah... \\>\\@niko do you want me to crush the pipe in here, \\p?"
-msgstr "@niko_speak Oh... \\>\\@niko \\p vuoi che schiacci il tubo di legno qui dentro?"
+msgstr "@niko_speak Oh... \\>\\@niko \\p vuoi che schiacci il tubo di metallo qui dentro?"
 
 #: Maps/Blue/Outpost/factory interior/factory upstairs/ :1:7:text
 msgid "@niko_huh Ohh, but I don't wanna get too close..."
@@ -25862,15 +25862,15 @@ msgstr "Hm..."
 
 #: Maps/Green/Dock/EV219:1:4:text Maps/POSTGAME green/Dock/EV219:1:4:text
 msgid "Nothing's biting..."
-msgstr ""
+msgstr "Nulla sta abboccando..."
 
 #: Maps/Green/Dock/EV220:1:3:text Maps/POSTGAME green/Dock/EV220:1:3:text
 msgid "Hi I'm an inaccessible npc."
-msgstr ""
+msgstr "Ciao sono un NPC non accessibile."
 
 #: Maps/Green/Dock/EV221:1:1:text Maps/POSTGAME green/Dock/EV221:1:1:text
 msgid "@niko A few small fish are in the bottom of this jar."
-msgstr ""
+msgstr "@niko Ci sono un po' di piccoli pesci sul fondo di questo vaso."
 
 #: Maps/Green/Dock/EV223:1:1:text Maps/POSTGAME green/Dock/EV223:1:1:text
 msgid "@niko_speak It's full of fish heads!"
@@ -26258,55 +26258,55 @@ msgstr "@niko Tu vivi ancora qui?"
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:2:text
 msgid "Sort of."
-msgstr ""
+msgstr "Più o meno."
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:3:text
 msgid "Fish populations near the village are thinning, so we fisherfolk are making temporary shelter here."
-msgstr ""
+msgstr "Il popolamento dei pesci vicino ai villaggi sta diminuendo, così noi pescatori facciamo dei rifugi temporanei qui."
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:4:text
 msgid "@niko_speak Makes sense!"
-msgstr ""
+msgstr "@niko_speak Ha senso!"
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:5:text
 msgid "The deeper ruins have been abandoned for a while, though."
-msgstr ""
+msgstr "Le rovine sono profonde e abbandonate già da parecchio però."
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:6:text
 msgid "...but I do see some kids coming in and out of those."
-msgstr ""
+msgstr "...ma vedo dei bambini uscire e rientrare da lì."
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:7:text
 msgid "I think they actually live there?"
-msgstr ""
+msgstr "Penso possa significare che vivono lì dentro?"
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:9:text
 msgid "... hey, now that I think about it..."
-msgstr ""
+msgstr "... hey, ora che ci penso..."
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:10:text
 msgid "Aren't YOU one of those kids?"
-msgstr ""
+msgstr "Tu non sei UNA dei bambini?"
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:11:text
 msgid "@alula_speak Yeah! \\@alula It's just me and my brother! \\>\\n\\@alula_pout Or is it... \"my brother and I\"?"
-msgstr ""
+msgstr "@alula_speak Sì! \\@alula Siamo soli io e mio fratello! \\>\\n\\@alula_pout O è... \"mio fratello ed io\"?"
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:12:text
 msgid "Well, I hope you kids stay safe!"
-msgstr ""
+msgstr "Beh, spero che voi bambini rimaniate al sicuro!"
 
 #: Maps/Green/Dock/Fishing hut/EV003:2:13:text
 msgid "If y'all keed need somewhere less dangerous to live, the village or the city are good places."
-msgstr ""
+msgstr "Se avete bisogno di un posto meno pericoloso dove vivere, il villaggio o la città sono buoni posti."
 
 #: Maps/Green/Dock/Fishing hut/EV003:3:2:text
 msgid "I hope you and your brother stay safe!"
-msgstr ""
+msgstr "Spero che tu e tuo fratello rimaniate al sicuro!"
 
 #: Maps/Green/Dock/Fishing hut/EV003:3:5:text
 msgid "I hope those kids are safe..."
-msgstr ""
+msgstr "Spero che quei bambini siano al sicuro..."
 
 #: Maps/Green/Dock/Fishing hut/EV010:1:1:text
 msgid "@niko Warm coals."
@@ -26854,11 +26854,11 @@ msgstr "@niko_speak Di cosa pensi che sappia, \\p?"
 
 #: Maps/Green/Village/ram:1:32:text
 msgid "@niko_eyeclosed The moss, not the ram..."
-msgstr ""
+msgstr "@niko_eyeclosed Il muschio, non il montone..."
 
 #: Maps/Green/Village/jar:1:1:text
 msgid "@niko This jar is full of milk."
-msgstr ""
+msgstr "@niko Questo vaso è pieno di latte."
 
 #: Maps/Green/Village/jar:1:2:text
 msgid "@niko_speak Milk makes you grow taller!"
@@ -26870,15 +26870,15 @@ msgstr "@niko Questo è quello che la mamma diceva sempre."
 
 #: Maps/Green/Village/jar:1:1:text
 msgid "@niko This jar is full of dry beans."
-msgstr ""
+msgstr "@niko Questo vaso è pieno di fagioli secchi."
 
 #: Maps/Green/Village/jar:1:1:text
 msgid "@niko Two jars."
-msgstr ""
+msgstr "@niko Due vasi."
 
 #: Maps/Green/Village/jar:1:1:text
 msgid "@niko I don't know what's in this jar, but it smells kinda like pickles!"
-msgstr ""
+msgstr "@niko Non so cosa ci sia in questo vaso, ma odora di cetriolini!"
 
 #: Maps/Green/Village/jar:1:3:text
 msgid "@alula_speak I like pickles!"
@@ -26890,11 +26890,11 @@ msgstr "@niko_eyeclosed A me no!"
 
 #: Maps/Green/Village/jar:1:1:text
 msgid "@niko These jars are filled with water."
-msgstr ""
+msgstr "@niko Questi vasi sono riempiti con dell'acqua."
 
 #: Maps/Green/Village/jar:1:1:text
 msgid "@niko This jar smells like alcohol."
-msgstr ""
+msgstr "@niko Questo vaso odora di alcol."
 
 #: Maps/Green/Village/jar:1:2:text
 msgid "@niko_speak ...gross!"
