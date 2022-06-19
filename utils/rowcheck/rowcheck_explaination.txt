@@ -1,0 +1,23 @@
+righe = contiene ogni riga in una lista
+
+righe[1] = "#Sottotitolo numero 1 con nome "ciao""
+righe[2] = msgid "hi, i'm peppe."
+righe[3] = msgstr ""
+
+per ogni riga, in tutte le righe:
+    se nella riga è presente il testo msgstr:
+        aggiungi 1 al contatore delle righe totali.
+        se nella riga non è presente il testo msgstr "":
+            aggiungi 1 al contatore delle righe svolte.
+stampa le righe totali.
+stampa le righe svolte.
+stampa la percentuale completata.
+
+100 / totali = 0,588
+1 * svolte = 14.70%
+
+---------------------------
+#Sottotitolo numero 1 con nome "ciao"
+msgid "hi, i'm peppe."
+msgstr "ciao, sono peppe."
+---------------------------
