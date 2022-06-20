@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-from distutils.log import error
 import sys
 from os import system, name
 from getch import pause, getch
@@ -32,7 +31,7 @@ def RowCheck(n, args):
             args.append("-sysprint")
     if(("-v" in args) or ("--verbose" in args)):
         verbose = True
-    with open('it.po', 'r') as fp:
+    with open('it.po', 'r', encoding="utf8") as fp:
         righe = fp.readlines()
 
         for riga in righe:
