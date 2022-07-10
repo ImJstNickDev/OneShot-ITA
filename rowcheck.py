@@ -43,14 +43,17 @@ def RowCheck(n, args):
                     counters[1]+=1
                     if(verbose):
                         print("Riga aggiunta alle tradotte, righe tradotte: {}".format(counters[1]))
+                if(verbose):
+                    sleep(1)
         if(("-c" in args) or ("--clrscr" in args)):
             clear()
         if(("-p" in args) or ("--print" in args) or ("-sysprint" in args)):
             if(("-c" not in args) and ("--clrscr" not in args)):
                 print("\n", end="")
-            print("Righe totali:  {}".format(counters[0]))
-            print("Righe fatte:   {}".format(counters[1]))
-            print("Percentuale:   {}%\n".format(truncate((100 / counters[0]) * (counters[1]), 2)))
+            print("Righe totali:       {}".format(counters[0]))
+            print("Righe fatte:        {}".format(counters[1]))
+            print("Righe rimanenti:    {}".format(counters[0]-counters[1]))
+            print("Percentuale:        {}%\n".format(truncate((100 / counters[0]) * (counters[1]), 2)))
             if(("-c" in args) or ("--clrscr" in args)):
                 if(n != 2 and n != 4):
                     print("Premi un qualsiasi tasto per continuare...")
@@ -77,7 +80,7 @@ def CheckArgs(args):
 
 def ErrArgs(arg):
     print("{} is not an argument, type -h or --help to see all the arguments".format(arg))
-    return 5
+    return 99
 
 def PrintToReadme(counters, args):
     row_index = 0
@@ -125,25 +128,40 @@ def StopSession(session):
                 sdone.write(sdonestr)
             pause()
 
+def CompleteFile(args):
+    with open('it.po', 'r', encoding="utf8") as itpo:
+        datavar = itpo.readlines()
+        for line in range(0, len(datavar) - 1):
+            if('msgstr ""' in datavar[line]):
+                if('msgid' in datavar[line-1]):
+                    msgid=datavar[line-1]
+                    msgstr = 'msgstr '
+                    msgstr += msgid[6:]
+                    datavar[line] = msgstr
+        with open('itnew.po', 'w', encoding='utf8') as newitpo:
+            for line in datavar:
+                newitpo.write(line)
+
 def main():
     gate = 0
     args = sys.argv
     args.pop(0)
     gate = CheckArgs(args)
     if(("-h" in args) or ("--help" in args)):
-        gate = "5"
+        gate = "99"
         PrintHelp()
-    while gate != "5":
+    while gate != "99":
         if(("-c" in args) or ("--clrscr") in args):
             clear()
-        print("1) Controlla le righe su file")
-        print("2) Controlla le righe su file e modifica README.md")
-        print("3) Start Session")
-        print("4) Stop Session")
-        print("5) Esci")
+        print("1)    Controlla le righe su file")
+        print("2)    Controlla le righe su file e modifica README.md")
+        print("3)    Start Session")
+        print("4)    Stop Session")
+        print("5)    Compila il resto del file in inglese")
+        print("99)   Esci")
         print("")
         gate = input("Input: ")
-        if((gate != "1") and (gate != "2") and (gate != "3") and (gate != "4") and (gate != "5")):
+        if((gate != "1") and (gate != "2") and (gate != "3") and (gate != "4") and (gate != "5") and (gate != "99")):
             print("Inserisci un input valido")  
             print("Premi un tasto qualsiasi per continuare...")
             getch()
@@ -159,6 +177,8 @@ def main():
             elif(gate == "4"):
                 StopSession(RowCheck(4, args))
             elif(gate == "5"):
+                CompleteFile(args)
+            elif(gate == "99"):
                 if(("-c" in args) or ("--clrscr") in args):
                     clear()
                 else:
