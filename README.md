@@ -8,7 +8,7 @@
 
 This project is a translation of the game "OneShot".
 
-<sup><sub>Progress (line): 5248/7111 (73.80%)</sub></sup>
+<sup><sub>Progress (line): 5739/7111 (80.70%)</sub></sup>
 
 ## Requirements
 
