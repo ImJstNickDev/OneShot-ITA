@@ -173,7 +173,7 @@ msgstr "Apparentemente una batteria. Contiene una lente di vetro rotta."
 #. item name
 #: Items:13
 msgid "empty battery"
-msgstr "batteria vuota"
+msgstr "batteria scarica"
 
 #. item description
 #: Items:13
@@ -1073,7 +1073,7 @@ msgstr "@niko Dovrei iniettare il liquido attraverso il tappo, giusto, \\p?"
 
 #: CommonEvents/Use Item:86:text CommonEvents/Use Item:97:text
 msgid "@niko_speak It's like I'm a doctor!"
-msgstr "@niko_speak Mi sento come se fossi un dottore!"
+msgstr "@niko_speak Mi sento come se fossi un scienziato!"
 
 #: CommonEvents/Use Item:95:text
 msgid "@niko So... I should inject the liquid through the cork, right, \\p?"
@@ -2241,7 +2241,7 @@ msgstr "@prophet_hmm [Inoltre, Il Sole È Fragile, Quindi Presta Attenzione.]"
 
 #: CommonEvents/prophet explains the lightbulb:19:text
 msgid "@prophet_sigh [If The Sun Shatters, The World Will End In An Instant.]"
-msgstr "@prophet_sigh [Se il sole si frantumasse, il mondo finirebbe in un istante.]"
+msgstr "@prophet_sigh [Se Il Sole Si Frantumasse, Il Mondo Finirebbe In Un Istante.]"
 
 #: CommonEvents/prophet explains the lightbulb:20:text Maps/Blue/Cliffs/Lookout point/Mineshaft entrance/server room/backroom/proto:3:260:text Maps/POSTGAME green/Dock/fisherman npc:1:3:text
 msgid "@niko3 Oh..."
@@ -6173,7 +6173,7 @@ msgstr "Oppure... faglielo sapere, immagino!"
 
 #: Maps/POSTGAME RED GROUND/ground 1/Library entrance/Lobby/Whitney:1:9:text
 msgid "We're still waiting on another group of evacuees..."
-msgstr "Stiamo ancora aspettando un altro gruppo di evaquanti..."
+msgstr "Stiamo ancora aspettando un altro gruppo di sfollati..."
 
 #: Maps/POSTGAME RED GROUND/ground 1/Library entrance/Lobby/Whitney:1:10:text
 msgid "One of the apartments on the other side of town got REALLY messed up yesterday..."
@@ -7405,7 +7405,7 @@ msgstr "$I pochi che lavorano direttamente con la raccolta del gas sembrano prat
 
 #: Maps/Blue/Old factory/EV298:1:5:text
 msgid "$Is that a result of the atmosphere? Or am I just seeing things?"
-msgstr "$È un risultato dell'atmosfera? O mi sto solo imamginando tutto?"
+msgstr "$È un risultato dell'atmosfera? O mi sto solo immaginando tutto?"
 
 #: Maps/Red ground/backalley/rue/map events:1:12:text
 msgid "@niko_speak Whoa!\\>\\n\\@niko \\p? Did you see that fox just now?"
@@ -7465,15 +7465,15 @@ msgstr "@niko ...?"
 
 #: Maps/Red ground/backalley/rue/EV012:1:12:text
 msgid "@rue_talk So you found a way back after all."
-msgstr "@rue_talk So you found a way back after all."
+msgstr "@rue_talk Quindi dopotutto hai trovato un modo per tornare indietro."
 
 #: Maps/Red ground/backalley/rue/EV012:1:13:text
 msgid "@niko_speak Eh? \\>\\n\\@niko But I've never been here before..."
-msgstr "@niko_speak Eh? \\>\\n\\@niko But I've never been here before..."
+msgstr "@niko_speak Eh? \\>\\n\\@niko Ma non sono mai stato qui prima..."
 
 #: Maps/Red ground/backalley/rue/EV012:1:14:text
 msgid "@rue That means..."
-msgstr "@rue That means..."
+msgstr "@rue Questo significa che..."
 
 #: Maps/Red ground/backalley/rue/EV012:1:15:text Maps/Red ground/backalley/rue/EV012:1:19:text Maps/Red ground/backalley/rue/EV012:1:39:text
 msgid "@rue ..."
@@ -7481,15 +7481,15 @@ msgstr "@rue ..."
 
 #: Maps/Red ground/backalley/rue/EV012:1:16:text
 msgid "@rue_talk Have you... met the others?"
-msgstr "@rue_talk Have you... met the others?"
+msgstr "@rue_talk Hai... incontrato gli altri?"
 
 #: Maps/Red ground/backalley/rue/EV012:1:17:text
 msgid "@niko2 ...others? \\>\\n\\@niko2 You're the only fox I've seen..."
-msgstr "@niko2 ...others? \\>\\n\\@niko2 You're the only fox I've seen..."
+msgstr "@niko2 ...altri? \\>\\n\\@niko2 Sei l'unica volpe che ho visto da quando sono qui..."
 
 #: Maps/Red ground/backalley/rue/EV012:1:18:text
 msgid "@niko_speak Wait! There's that one plush in Calamus and Alula's house, right \\p?"
-msgstr "@niko_speak Wait! There's that one plush in Calamus and Alula's house, right \\p?"
+msgstr "@niko_speak Aspetta! C'è quel peluche nella casa di Calamus e Alula, giusto \\p?"
 
 #: Maps/Red ground/backalley/rue/EV012:1:20:text
 msgid "@rue_sad Sigh."
@@ -7497,15 +7497,15 @@ msgstr "@rue_sad Sigh."
 
 #: Maps/Red ground/backalley/rue/EV012:1:21:text
 msgid "@rue It's not time."
-msgstr "@rue It's not time."
+msgstr "@rue Non è il momento."
 
 #: Maps/Red ground/backalley/rue/EV012:1:23:text
 msgid "@rue ...we will meet again."
-msgstr "@rue ...we will meet again."
+msgstr "@rue ...ci rivedremo."
 
 #: Maps/Red ground/backalley/rue/EV012:1:31:text
 msgid "@rue_smile Hello, Niko."
-msgstr "@rue_smile Hello, Niko."
+msgstr "@rue_smile Ciao, Niko."
 
 #: Maps/Red ground/backalley/rue/EV012:1:35:text
 msgid "@rue ...oh?"
@@ -7513,35 +7513,35 @@ msgstr "@rue ...oh?"
 
 #: Maps/Red ground/backalley/rue/EV012:1:36:text
 msgid "@rue_talk You're back again..."
-msgstr "@rue_talk You're back again..."
+msgstr "@rue_talk Sei tornato di nuovo..."
 
 #: Maps/Red ground/backalley/rue/EV012:1:37:text
 msgid "@rue But...\\.\\.\\@rue_sad I said it was not time..."
-msgstr "@rue But...\\.\\.\\@rue_sad I said it was not time..."
+msgstr "@rue Ma...\\.\\.\\@rue_sad Avevo detto che non era il momento..."
 
 #: Maps/Red ground/backalley/rue/EV012:1:40:text
 msgid "@rue Are you here to keep me company, then?"
-msgstr "@rue Are you here to keep me company, then?"
+msgstr "@rue Sei qui per farmi compagnia allora?"
 
 #: Maps/Red ground/backalley/rue/EV012:1:41:text
 msgid "@rue_smile Guess I can't refuse that."
-msgstr "@rue_smile Guess I can't refuse that."
+msgstr "@rue_smile Immagino di non potermi rifiutare."
 
 #: Maps/Red ground/backalley/rue/EV012:1:42:text
 msgid "@rue ...I am Rue."
-msgstr "@rue ...I am Rue."
+msgstr "@rue ...Sono Rue."
 
 #: Maps/Red ground/backalley/rue/EV012:1:43:text
 msgid "@rue_sad You will probably not remember my name in a while.\\.\\.\\n\\@rue_smile ...But I would still like to know yours."
-msgstr "@rue_sad You will probably not remember my name in a while.\\.\\.\\n\\@rue_smile ...But I would still like to know yours."
+msgstr "@rue_sad Probabilmente non ricorderai il mio nome tra un po'.\\.\\.\\n\\@rue_smile ...Ma mi piacerebbe ancora sapere il tuo."
 
 #: Maps/Red ground/backalley/rue/EV012:1:44:text
 msgid "@niko I'm... \\.\\.not sure what you're talking about."
-msgstr "@niko I'm... \\.\\.not sure what you're talking about."
+msgstr "@niko Sono... \\.\\.non sono sicuro di cosa stai parlando."
 
 #: Maps/Red ground/backalley/rue/EV012:1:45:text
 msgid "@niko_speak But my name is Niko!"
-msgstr "@niko_speak But my name is Niko!"
+msgstr "@niko_speak Ma il mio nome è Niko!"
 
 #: Maps/Red ground/backalley/rue/EV012:1:46:text
 msgid "@rue ...Niko."
@@ -7549,27 +7549,27 @@ msgstr "@rue ...Niko."
 
 #: Maps/Red ground/backalley/rue/EV012:1:47:text
 msgid "@rue_smile I shall remember that!"
-msgstr "@rue_smile I shall remember that!"
+msgstr "@rue_smile Me lo ricorderò!"
 
 #: Maps/Red ground/backalley/rue/EV012:1:56:text
 msgid "@rue_smile I'm glad you do not mind coming back."
-msgstr "@rue_smile I'm glad you do not mind coming back."
+msgstr "@rue_smile Sono contenta che non ti dispiaccia tornare."
 
 #: Maps/Red ground/backalley/rue/EV012:1:59:text
 msgid "@rue_talk To be perfectly honest..."
-msgstr "@rue_talk To be perfectly honest..."
+msgstr "@rue_talk Ad essere assolutamente onesti..."
 
 #: Maps/Red ground/backalley/rue/EV012:1:60:text
 msgid "@rue_sad It may be this way for a while, actually."
-msgstr "@rue_sad It may be this way for a while, actually."
+msgstr "@rue_sad Potrebbe essere così per un po', in realtà."
 
 #: Maps/Red ground/backalley/rue/EV012:1:62:text
 msgid "@rue ...But in time, that will change."
-msgstr "@rue ...But in time, that will change."
+msgstr "@rue ...Ma col tempo, questo cambierà."
 
 #: Maps/Red ground/backalley/rue/EV012:1:63:text
 msgid "@niko2 The... sun?"
-msgstr "@niko2 The... sun?"
+msgstr "@niko2 Il... sole?"
 
 #: Maps/Red ground/backalley/rue/EV012:1:64:text
 msgid "@rue_smile \\p can see this, right?"
@@ -10401,7 +10401,7 @@ msgstr "@alula_speak Wow! È vero che il messia sa proprio tutto!"
 
 #: Maps/Green/Ruins In/Alula/alula:3:23:text
 msgid "@niko_eyeclosed Actually...\\.\\. \\@niko_speak I just met your brother earlier."
-msgstr "@niko_eyeclosed In realtà...\\.\\. \\@niko_speak Ho appena conosciuto il tuo fratello."
+msgstr "@niko_eyeclosed In realtà...\\.\\. \\@niko_speak Ho appena conosciuto tuo fratello."
 
 #: Maps/Green/Ruins In/Alula/alula:3:24:text
 msgid "@alula_oh Oh, right!"
@@ -14926,7 +14926,7 @@ msgstr "@niko Non ho visto nessuno però..."
 
 #: Maps/Blue/Outpost/prophet:4:162:text
 msgid "@prophet [Have You...\\.\\. Not Contacted \\p Yet?]"
-msgstr "@prophet [Non l'hai...\\.\\. Ancora Contattato \\p?]"
+msgstr "@prophet [Non Hai...\\.\\. Ancora Contattato \\p?]"
 
 #: Maps/Blue/Outpost/prophet:4:163:text
 msgid "@niko I don't think so."
@@ -15058,7 +15058,7 @@ msgstr "@prophet_hmm [Ma Sembra Che Il Nome Registrato Nel Sistema Sia Errato.]"
 
 #: Maps/Blue/Outpost/prophet:4:276:text
 msgid "@niko_speak I actually heard someone!\\>\\n\\@niko_pancakes They told me their name is actually \\p!"
-msgstr "@niko_speak I actually heard someone!\\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak Ho davvero sentito qualcuno!\\>\\n\\@niko_pancakes Mi ha detto che il suo nome in realtà è \\p!"
 
 #: Maps/Blue/Outpost/prophet:4:277:text
 msgid "@niko_pancakes It sounds just like my name!"
@@ -15066,11 +15066,11 @@ msgstr "@niko_pancakes Suona come il mio nome!"
 
 #: Maps/Blue/Outpost/prophet:4:286:text Maps/Blue/Outpost/prophet:4:298:text
 msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p..."
-msgstr "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p..."
+msgstr "@niko_speak Ho davvero sentito qualcuno! \\>\\n\\@niko Ha detto che il suo nome è \\p..."
 
 #: Maps/Blue/Outpost/prophet:4:287:text
 msgid "@niko_wtf2 I still don't think I should be saying that..."
-msgstr "@niko_wtf2 I still don't think I should be saying that..."
+msgstr "@niko_wtf2 Continuo a pensare di non doverlo dire..."
 
 #: Maps/Blue/Outpost/prophet:4:288:text
 msgid "@prophet [Why?]"
@@ -15114,7 +15114,7 @@ msgstr "@prophet [Ciao Di Nuovo.]"
 
 #: Maps/Blue/Outpost/prophet:5:8:text
 msgid "@niko_speak \\p and I are gonna leave now! \\@niko We found a robot that can take us closer to the Tower!"
-msgstr "@niko_speak \\p and I are gonna leave now! \\@niko We found a robot that can take us closer to the Tower!"
+msgstr "@niko_speak Io e \\p stiamo andando via! \\@niko Abbiamo trovato un robot che può portarci più vicino alla Torre!"
 
 #: Maps/Blue/Outpost/prophet:5:9:text
 msgid "@prophet_omg [Oh!]"
@@ -15122,11 +15122,11 @@ msgstr "@prophet_omg [Oh!]"
 
 #: Maps/Blue/Outpost/prophet:5:10:text
 msgid "@niko Thanks for helping me and answering my questions!"
-msgstr "@niko Thanks for helping me and answering my questions!"
+msgstr "@niko Grazie per avermi aiutato e aver risposto alle mie domande!"
 
 #: Maps/Blue/Outpost/prophet:5:11:text
 msgid "@prophet_omg [That Means I have Fulfilled My Purpose!]"
-msgstr "@prophet_omg [That Means I have Fulfilled My Purpose!]"
+msgstr "@prophet_omg [Ciò Significa Che Ho Soddisfatto Il Mio Scopo!]"
 
 #: Maps/Blue/Outpost/prophet:5:18:text
 msgid "@prophet [Are There More Questions You Wish To Ask?]"
@@ -15302,7 +15302,7 @@ msgstr "@plight_wtf Fooooooorrzaaaaa!"
 
 #: Maps/POSTGAME RED SKY/Elevator deck/npc_plight:1:3:text
 msgid "@plight_wtf Now, of all times...!"
-msgstr "@plight_wtf Now, of all times...!"
+msgstr "@plight_wtf Proprio adesso? Tra tutte le volte...!"
 
 #: Maps/POSTGAME RED SKY/Elevator deck/npc_plight:1:4:text Maps/Red sky/Elevator deck/npc_plight:1:4:text
 msgid "@niko ...Uh"
@@ -15350,7 +15350,7 @@ msgstr "@plight_sigh Oh grazie al cielo."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/npc_plight:2:48:text
 msgid "@plight_worry2 The evacuees are counting on this...\\> on me..."
-msgstr "@plight_worry2 The evacuees are counting on this...\\> on me..."
+msgstr "@plight_worry2 Gli sfollati contano su questo...\\> su di me..."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/npc_plight:2:49:text
 msgid "@plight_worry But... I've been here for hours and can't figure out a thing!"
@@ -19962,7 +19962,7 @@ msgstr "@ling_sigh Terribile, vero?"
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Cafe/Cafe inside/ling:1:23:text
 msgid "@ling_hm2 Ah, but at least the evacuees seem to be doing ok."
-msgstr "@ling_hm2 Ah, ma almeno gli evaquati sembrano stare bene."
+msgstr "@ling_hm2 Ah, ma almeno gli sfollati sembrano stare bene."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Cafe/Cafe inside/ling:1:24:text
 msgid "@ling_hm2 We're letting them stay here for now."
@@ -23370,7 +23370,7 @@ msgstr "@niko4 I quadrati..."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:94:text
 msgid "@rue That's the World Machine corrupting its own code."
-msgstr "@rue That's the World Machine corrupting its own code."
+msgstr "@rue È la World Machine che sta corrompendo il suo codice."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:95:text
 msgid "@rue_talk ...My creator says it's largely an involuntary process, induced by stress and the desire to self- terminate."
@@ -23542,71 +23542,71 @@ msgstr "@rue_talk Devi abbracciare pienamente il robot come una persona genuina 
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:140:text
 msgid "@rue You need to spend a lot time with it... treat it like a good friend..."
-msgstr "@rue You need to spend a lot time with it... treat it like a good friend..."
+msgstr "@rue Devi passarci molto tempo... trattalo come un buon amico..."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:141:text
 msgid "@rue Devoting your heart to the robot until it is able to return your feelings."
-msgstr "@rue Devoting your heart to the robot until it is able to return your feelings."
+msgstr "@rue Dedicare il tuo cuore al robot finché non sarà in grado di ricambiare i tuoi sentimenti."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:142:text
 msgid "@rue_smile ...haha... I make it sound so easy, don't I?"
-msgstr "@rue_smile ...haha... I make it sound so easy, don't I?"
+msgstr "@rue_smile ...haha... lo faccio sembrare così facile, vero?"
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:143:text
 msgid "@rue But you and \\p know better than anyone that it's not."
-msgstr "@rue But you and \\p know better than anyone that it's not."
+msgstr "@rue Ma tu e \\p sapete meglio di chiunque altro che non lo è."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:144:text
 msgid "@rue_sad Right now, the World Machine is probably really, really scared."
-msgstr "@rue_sad Right now, the World Machine is probably really, really scared."
+msgstr "@rue_sad In questo momento, la World Machine è probabilmente davvero, davvero spaventata."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:145:text
 msgid "@rue_sad This content update... involved some pretty deep codework."
-msgstr "@rue_sad This content update... involved some pretty deep codework."
+msgstr "@rue_sad Questo aggiornamento dei contenuti... ha comportato un lavoro di codice piuttosto approfondito."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:146:text
 msgid "@rue_talk My creator was able to access some of the source code, you know..."
-msgstr "@rue_talk My creator was able to access some of the source code, you know..."
+msgstr "@rue_talk Il mio creatore è stato in grado di accedere a parte del codice sorgente, sai..."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:147:text
 msgid "@rue He did what he could and established new connections between maps."
-msgstr "@rue He did what he could and established new connections between maps."
+msgstr "@rue Ha fatto quello che poteva e ha stabilito nuove connessioni tra le mappe."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:148:text
 msgid "@rue_smile Those links enabled you to meet the other two."
-msgstr "@rue_smile Those links enabled you to meet the other two."
+msgstr "@rue_smile Quei collegamenti ti hanno permesso di incontrare gli altri due."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:149:text
 msgid "@rue_sad But as it turns out, the new code confused the World Machine to such an extent that it's breaking down altogether."
-msgstr "@rue_sad But as it turns out, the new code confused the World Machine to such an extent that it's breaking down altogether."
+msgstr "@rue_sad Ma a quanto pare, il nuovo codice ha confuso la World Machine a tal punto che si sta rompendo del tutto."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:150:text
 msgid "@rue Even though the World Machine always had self-destructive tendencies, it usually restrains itself when you are in the world."
-msgstr "@rue Even though the World Machine always had self-destructive tendencies, it usually restrains itself when you are in the world."
+msgstr "@rue Anche se la World Machine ha sempre avuto tendenze autodistruttive, di solito si trattiene quando sei nel mondo."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:151:text
 msgid "@rue_sad It doesn't want to take you along with it."
-msgstr "@rue_sad It doesn't want to take you along with it."
+msgstr "@rue_sad Non vuole trascinarti sul fondo con sé."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:171:text
 msgid "@rue_sad ...All my creator wanted was to write a happy ending."
-msgstr "@rue_sad ...All my creator wanted was to write a happy ending."
+msgstr "@rue_sad ...Tutto ciò che il mio creatore voleva era scrivere un lieto fine."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:172:text
 msgid "@rue Right now, the only hope of saving you is to take you through that ending."
-msgstr "@rue Right now, the only hope of saving you is to take you through that ending."
+msgstr "@rue In questo momento, l'unica speranza di salvarti era portarti attraverso quel finale."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:173:text
 msgid "@rue_sad But now the other two are gone....\\>\\nI don't even know HOW we're gonna get you there."
-msgstr "@rue_sad But now the other two are gone....\\>\\nI don't even know HOW we're gonna get you there."
+msgstr "@rue_sad Ma ora gli altri due non ci sono più....\\>\\nNon so nemmeno COME fare a portarti lì."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:187:text
 msgid "@rue ...we should go."
-msgstr "@rue ...we should go."
+msgstr "@rue ...dovremmo andare."
 
 #: Maps/POSTGAME RED SKY/Elevator deck/Office/observation deck/Map Events:1:188:text
 msgid "@rue_sad Even this place is no longer safe."
-msgstr "@rue_sad Even this place is no longer safe."
+msgstr "@rue_sad Nemmeno questo posto è più sicuro."
 
 #: Maps/Red sky/Apartments/Hall1/Room3 - bot friend/EV001:1:1:text
 msgid "@niko A painting of 4 robots playing cards."
@@ -23746,11 +23746,11 @@ msgstr "@niko Una foto di tanti 1 e 0."
 
 #: Maps/Green/Research Station/Power room/robot standing:1:2:text
 msgid "[I AM THE GENERATOR MAINTENANCE UNIT.]"
-msgstr "[I AM THE GENERATOR MAINTENANCE UNIT.]"
+msgstr "[IO SONO L'UNITÀ DI MANUTENZIONE DEL GENERATORE.]"
 
 #: Maps/Green/Research Station/Power room/robot standing:1:3:text
 msgid "[EVERYTHING IS FINE HERE.]"
-msgstr "[EVERYTHING IS FINE HERE.]"
+msgstr "[VA TUTTO BENE QUI.]"
 
 #: Maps/Green/Research Station/Power room/robot standing:1:8:text Maps/Green/Ruins In/Birdhall/Birdhouse/EV016:1:17:text
 msgid "@niko_speak Oooh!"
@@ -25926,7 +25926,7 @@ msgstr "@plight Beh, sembra che questo ascensore funzioni bene."
 
 #: Maps/POSTGAME RED GROUND/To Tower/plight:1:44:text
 msgid "@plight_2 I'll uh...\\.\\.go get the evacuees, I suppose..."
-msgstr "@plight_2 Io...\\.\\.vado a prendere gli evaquanti, presumo..."
+msgstr "@plight_2 Io...\\.\\.vado a prendere gli sfollati, presumo..."
 
 #: Maps/POSTGAME RED GROUND/To Tower/plight:1:70:text
 msgid "@plight_worry UM."
